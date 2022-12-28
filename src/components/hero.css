@@ -1,0 +1,26 @@
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background: #c4e3cb;
+}
+
+.hero nav {
+    background: #8aae92;
+    width: 100%;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero nav h2 {
+    color: #fff;
+    font-size: 25px;
+}
+
+.hero nav button {
+    width: 86px;
+    padding: 8px 0;
+    background: #616161;
+    color: white;
+}
